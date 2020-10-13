@@ -1,0 +1,4 @@
+gensim==1.0.0
+spacy==1.1.0
+tensorflow==1.0.0
+numpy==1.12.1
