@@ -1,3 +1,6 @@
+Dev2Vecscript.py  (python 2.7)
+final.py          (python 3.8)
+  
 Instructions:
 1. Requirement.txt attached which contains list of python packages used in the project
 2. Doc2VecScript1.py is the main script.
